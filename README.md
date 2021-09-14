@@ -1,4 +1,4 @@
-# ysc2244_package-talk
+# YSC2244 Package Talk: Tkinter
 Package Talk for Tkinter for YSC2244
 
 This is a GUI application made using Tkinter for a presentation on... Tkinter! 
